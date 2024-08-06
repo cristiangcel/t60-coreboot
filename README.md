@@ -14,5 +14,3 @@ Tested on IBM Thinkpad T60 TYPE 1951 and flashed using the internal method with 
 # LICENSE
 
 All coreboot code is released under the GNU GPL license (its license can be seen in the "COPYING" file), with the exception of the vgabios.bin file owned by Intel which is included for "fair use" as this is a project for educational purposes only.
-
-Translated with DeepL.com (free version)

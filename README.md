@@ -1,4 +1,4 @@
-# COREBOOT FOR T60 W/ INTEL GPU BLOBS AND MICROCODE
+# COREBOOT FOR T60 W/ INTEL GPU
 
 WARNING.
 All the content of this repository is provided without any kind of warranty, what you will do with the files I provide are your sole responsibility: in case of damage or any other problem I am not responsible. This project is for educational purposes only and I do not own the content of this repository!
